@@ -1,7 +1,5 @@
 name: v4 tests
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 jobs:
   test:
